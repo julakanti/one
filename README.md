@@ -1,6 +1,6 @@
 # Welcome to your beanstalk-maven-plugin archetype project!
 
-## About
+## About hii this
 
 For up to date information, see http://docs.ingenieux.com.br/project/beanstalker/
 
